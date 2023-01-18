@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.40af20e2.css",
-    "main.js": "/static/js/main.70dc8db0.js",
-    "static/media/Ph.jpg": "/static/media/Ph.98ca494dcad7b3e70e17.jpg",
-    "static/media/cap6.JPG": "/static/media/cap6.f4b3a9fa6dc121d36f7a.JPG",
-    "static/media/cap3.JPG": "/static/media/cap3.4f6b2bac5d063d32e62f.JPG",
-    "static/media/cap5.JPG": "/static/media/cap5.c4caebf73f0ff69f6b9c.JPG",
-    "static/media/soccer.jpg": "/static/media/soccer.0b50715725908c4a27ae.jpg",
-    "static/media/port2.JPG": "/static/media/port2.e18122ee953c69c75659.JPG",
-    "static/media/cap7.JPG": "/static/media/cap7.74279a437b584bca6a02.JPG",
-    "static/media/fabric.png": "/static/media/fabric.3a1471f2da0e2229237f.png",
-    "static/media/port1.JPG": "/static/media/port1.d8a85f2862bf57ddbcc7.JPG",
-    "static/media/CV.pdf": "/static/media/CV.e499f3101b52c41dbdbd.pdf",
-    "static/media/resize1.jpg": "/static/media/resize1.364ec03a2536d382b895.jpg",
-    "index.html": "/index.html",
-    "main.40af20e2.css.map": "/static/css/main.40af20e2.css.map",
-    "main.70dc8db0.js.map": "/static/js/main.70dc8db0.js.map"
+    "main.css": "/port/static/css/main.c8204de1.css",
+    "main.js": "/port/static/js/main.0a47c55d.js",
+    "static/media/Ph.jpg": "/port/static/media/Ph.98ca494dcad7b3e70e17.jpg",
+    "static/media/cap6.JPG": "/port/static/media/cap6.f4b3a9fa6dc121d36f7a.JPG",
+    "static/media/cap3.JPG": "/port/static/media/cap3.4f6b2bac5d063d32e62f.JPG",
+    "static/media/cap5.JPG": "/port/static/media/cap5.c4caebf73f0ff69f6b9c.JPG",
+    "static/media/soccer.jpg": "/port/static/media/soccer.0b50715725908c4a27ae.jpg",
+    "static/media/port2.JPG": "/port/static/media/port2.e18122ee953c69c75659.JPG",
+    "static/media/cap7.JPG": "/port/static/media/cap7.74279a437b584bca6a02.JPG",
+    "static/media/fabric.png": "/port/static/media/fabric.3a1471f2da0e2229237f.png",
+    "static/media/port1.JPG": "/port/static/media/port1.d8a85f2862bf57ddbcc7.JPG",
+    "static/media/CV.pdf": "/port/static/media/CV.e499f3101b52c41dbdbd.pdf",
+    "static/media/resize1.jpg": "/port/static/media/resize1.364ec03a2536d382b895.jpg",
+    "index.html": "/port/index.html",
+    "main.c8204de1.css.map": "/port/static/css/main.c8204de1.css.map",
+    "main.0a47c55d.js.map": "/port/static/js/main.0a47c55d.js.map"
   },
   "entrypoints": [
-    "static/css/main.40af20e2.css",
-    "static/js/main.70dc8db0.js"
+    "static/css/main.c8204de1.css",
+    "static/js/main.0a47c55d.js"
   ]
 }
