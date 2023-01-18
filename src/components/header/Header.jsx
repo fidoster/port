@@ -30,7 +30,7 @@ const Header = () => {
           className="scroll__down"
           style={{ color: "#8C0303", fontSize: "15px", fontWeight: "bold", letterSpacing: 10 }}
         >
-          Scroll Down
+          Scroll
         </a>
       </div>
     </header>
